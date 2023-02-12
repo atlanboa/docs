@@ -115,3 +115,5 @@ TimeStamp 가 찍힌 데이터를 처리하도록 최적화되어 시간 경과�
 
 ### <span style="color:indianred">Flexibility</span>
 > 시간이 지남에 따라 요구사항이 변화는 항상 존재합니다. 따라서 Database 를 확장할 수 있는 기능과 스키마 변경의 용이성과 같은 요소를 고려해야 합니다.
+
+
